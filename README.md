@@ -33,10 +33,3 @@ Contributions are welcome! Please submit a pull request or create an issue to di
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For any questions or support, please reach out to [contact@example.com](mailto:contact@example.com).
-
----
-
-You can customize the sections further based on the specifics of your project.
